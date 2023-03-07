@@ -9,3 +9,4 @@
 - [세미나실 예약 서비스](https://github.com/kodomomo/SRS-Server-V1) : 원하는 시간에 세미나실을 예약해요 🎫
 - [Mally Smith](https://github.com/kodomomo/MALLYSmith-Core) : 마인크래프트와 경제를 더하면 어떨까요 💵
 - [Sunshijo](https://github.com/Kodomomo/Sunshijo-Python) : 이제 간단하게 시간표를 바꿔요 🕰
+- [GMB](https://github.com/Kodomomo/GMB) : 보다 간편하게 Repsotiroy 이벤트를 받아요 🎉
